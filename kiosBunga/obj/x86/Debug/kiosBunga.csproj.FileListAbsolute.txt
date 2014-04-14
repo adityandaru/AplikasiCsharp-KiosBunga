@@ -1,0 +1,46 @@
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\bin\Debug\kiosBunga.exe
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\bin\Debug\kiosBunga.pdb
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.MainForm.resources
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.csproj.GenerateResource.Cache
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.exe
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.pdb
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaAdmin.resources
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaKaryawan.resources
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormStokBunga.resources
+C:\Users\This\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormDataPelangan.resources
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\bin\Debug\kiosBunga.exe
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\bin\Debug\kiosBunga.pdb
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormDataPelangan.resources
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormStokBunga.resources
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaAdmin.resources
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaKaryawan.resources
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.MainForm.resources
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.csproj.GenerateResource.Cache
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.exe
+C:\Users\Ultimate\Documents\SharpDevelop Projects\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.pdb
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\bin\Debug\kiosBunga.exe
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\bin\Debug\kiosBunga.pdb
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormDataPelangan.resources
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormStokBunga.resources
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaAdmin.resources
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaKaryawan.resources
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.MainForm.resources
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.csproj.GenerateResource.Cache
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.exe
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.pdb
+C:\Users\No More Tear\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.PrintBro.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.exe
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.pdb
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\bin\Debug\kiosBunga.exe
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\bin\Debug\kiosBunga.pdb
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormDataPelangan.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormStokBunga.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaAdmin.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.FormUtamaKaryawan.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.MainForm.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.PrintBro.resources
+C:\Users\Internet\Dropbox\Csharp\kiosBunga\kiosBunga\obj\x86\Debug\kiosBunga.csproj.GenerateResource.Cache
